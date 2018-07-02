@@ -21,8 +21,3 @@ x
 O tamanho do conjunto de dados é variável, ou seja, o número de linhas e colunas da matriz A poderá
 variar indefinidamente, de acordo com o problema tratado pelo usuário, bem como a quantidade de
 dados dos demais vetores.
-O aluno deverá entregar o código impresso. Na data da entrega, os alunos deverão também apresentá-lo
-ao professor no laboratório de programação II, bloco IV. Portanto, antes da data de entrega, os alunos
-deverão ir até o laboratório e testar o algoritmo implementado, para que, durante a aula, não haja
-nenhum problema. Esta apresentação será apenas para o professor que irá conversar individualmente
-com cada aluno sobre o algoritmo implementado.# simplex_c-
