@@ -4,9 +4,9 @@ os valores das demandas e um vetor c contendo os custos das variáveis na funç�
 variáveis básicas iniciais. A entrada dos dados deve ser feita através da leitura de um arquivo .txt no
 formato:
 
-1 2 3 4 5 1 0 0
-6 7 8 9 1 0 1 0
-1 7 2 4 5 0 0 1
+1 2 3 4 5 1 0 0 </br>
+6 7 8 9 1 0 1 0 </br>
+1 7 2 4 5 0 0 1 </br>
 
 100 60 20
 
